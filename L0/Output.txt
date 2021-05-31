@@ -1,0 +1,22 @@
+<KY, int>
+<ID, x>
+<OP, =>
+<CT, 0>
+<SP, ;>
+<ID, string>
+<ID, name>
+<OP, =>
+<CT, "Ishan Pandey">
+<KY, if>
+<SP, (>
+<ID, x>
+<OP, ==>
+<CT, 3>
+<SP, )>
+<SP, {>
+<KY, printf>
+<SP, (>
+<CT, "well done">
+<SP, )>
+<SP, }>
+Total number of tokens in the above program are 21

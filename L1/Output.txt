@@ -1,0 +1,10 @@
+Keyword  identifier special character special character 
+special character 
+    Keyword  identifier special character constant special character 
+    Keyword special character Keyword  identifier special character constant special character identifier operator constant special character identifier operator special character 
+    special character 
+        identifier operator special character 
+    special character 
+    identifier special character constant special character special character 
+    Keyword  constant special character 
+special character 
